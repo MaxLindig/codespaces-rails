@@ -22,7 +22,7 @@ code {
 }
 
 .App-header {
-  background-color: #282c34;
+  background-color: #0b111e;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
@@ -37,7 +37,7 @@ code {
 }
 
 .heart {
-  color: #ff0000;
+  color: #bd0000;
 }
 
 .small {
